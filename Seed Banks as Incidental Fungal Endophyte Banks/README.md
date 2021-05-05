@@ -7,4 +7,4 @@ Scripts for the various data visualisations shown in the slides are linked below
 * [Gap analysis of Ascomycota genome data](https://github.com/Rowena-h/AscomycotaGapAnalysis)
 * [Fungal endophytes in stored wild banana seeds](https://github.com/Rowena-h/MusaEndophytes).
 
-<a href="https://github.com/Rowena-h/Presentations/blob/master/Let's%20Talk%20About%20Fungi/Let's%20Talk%20About%20Fungi%20-%20DTP%20conference%202020.pdf"><img src="front.png" width="500" alt="Seed Banks as Incidental Fungal Endophyte Banks"></a>
+<a href="https://github.com/Rowena-h/Presentations/blob/master/Seed%20Banks%20as%20Incidental%20Fungal%20Endophyte%20Banks/Seed%20Banks%20as%20Incidental%20Fungal%20Endophyte%20Banks%20-%20KABaM%202021.pdf"><img src="front.png" width="500" alt="Seed Banks as Incidental Fungal Endophyte Banks"></a>
