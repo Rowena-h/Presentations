@@ -1,5 +1,11 @@
 # Presentations #
 
+## [Why fungi are the best friends (and worst enemies) you never knew you had](https://github.com/Rowena-h/Presentations/tree/master/Why%20fungi%20are%20the%20best%20friends%20(and%20worst%20enemies)%20you%20never%20knew%20you%20had "Why fungi are the best friends (and worst enemies) you never knew you had") ##
+
+A talk given on 11th May 2022 at the 'Unloved Animals Club: Battle of the Kingdoms' event of the [Pint of Science](https://pintofscience.co.uk/) Festival 2022.
+
+<a href="https://github.com/Rowena-h/Presentations/tree/master/Why%20fungi%20are%20the%20best%20friends%20(and%20worst%20enemies)%20you%20never%20knew%20you%20had"><img src="https://github.com/Rowena-h/Presentations/blob/master/Why%20fungi%20are%20the%20best%20friends%20(and%20worst%20enemies)%20you%20never%20knew%20you%20had/front.png" width="500" alt="Why fungi are the best friends (and worst enemies) you never knew you had"></a>
+
 ## [Let's Talk About Fungi](https://github.com/Rowena-h/Presentations/blob/master/Let's%20Talk%20About%20Fungi/ "Let's Talk About Fungi") ##
 
 A presentation given at 'Engaging Sustainability - Joint DTP Conference 2020', a virtual conference held on the 7th-8th September 2020, outlining the need for (higher) education and outreach for fungi in the UK.
