@@ -1,6 +1,6 @@
 # Why fungi are the best friends (and worst enemies) you never knew you had #
 
-A talk given on 11th May 2022 at the 'Unloved Animals Club: Battle of the Kingdoms' event of the [Pint of Science](https://pintofscience.co.uk/) Festival 2022.
+A talk given on 11th May 2022 at the 'Unloved Animals Club: Battle of the Kingdoms' event of the [Pint of Science](https://pintofscience.co.uk/) Festival 2022. It won over the audience and fungi were voted the best-loved kingdom of the night! :smiling_face_with_three_hearts:
 
 <img src="front.png" width="500" alt="Why fungi are the best friends (and worst enemies) you never knew you had">
 
